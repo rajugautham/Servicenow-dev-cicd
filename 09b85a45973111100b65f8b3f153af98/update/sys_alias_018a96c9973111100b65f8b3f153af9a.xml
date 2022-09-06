@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="INSERT_OR_UPDATE">
+        <configuration_template/>
+        <connection_type>http_connection</connection_type>
+        <id>x_682801_first_cic.Github_for_cicd_alias</id>
+        <multiple_connections>false</multiple_connections>
+        <name>Github for cicd alias</name>
+        <parent/>
+        <retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-06 05:33:24</sys_created_on>
+        <sys_id>018a96c9973111100b65f8b3f153af9a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_682801_first_cic.Github_for_cicd_alias</sys_name>
+        <sys_package display_value="First CICD project" source="x_682801_first_cic">09b85a45973111100b65f8b3f153af98</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="First CICD project">09b85a45973111100b65f8b3f153af98</sys_scope>
+        <sys_update_name>sys_alias_018a96c9973111100b65f8b3f153af9a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-06 05:33:24</sys_updated_on>
+        <type>credential</type>
+    </sys_alias>
+</record_update>
